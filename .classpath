@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/DownloadApplication/jar/microsoft-translator-java-api-0.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/DownloadApplication/jar/microsoft-translator-java-api-0.6.2-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/DownloadApplication/jar/org.apache.commons.httpclient.jar/org.apache.commons.httpclient.jar"/>
+	<classpathentry kind="lib" path="D:/DownloadApplication/jar/google-gson-2.2.4/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/bridj-0.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/cmecab-2.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/icu4j-50_1.jar"/>
+	<classpathentry kind="lib" path="libs/jdom-2.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/json-lib-2-1.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="libs/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="libs/jxl.jar"/>
+	<classpathentry kind="lib" path="libs/lucene-gosen-4.0.0-ipadic.jar"/>
+	<classpathentry kind="lib" path="libs/org.json.jar"/>
+	<classpathentry kind="lib" path="libs/xstream-1.4.3.jar"/>
+	<classpathentry kind="lib" path="libs/groovy-all-1.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/jython-complete.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
